@@ -31,14 +31,6 @@ Join our community and contribute to shaping the future of cybersecurity:
 - **[Discord](https://discord.gg/YSBfz3JnNE)** | **[WhatsApp Group](https://chat.whatsapp.com/IZktXIwa45zJvhzVx8Iubh)**
 - **[GitHub](https://github.com/projectentity)** | **[Telegram](https://t.me/project_entity)**
 
-## 🚀 Projects
-
-Explore some of our exciting projects:
-
-- **[Project 1](https://github.com/projectentity/project1):** comming soon...
-- **[Project 2](https://github.com/projectentity/project2):** comming soon...
-- **[Project 3](https://github.com/projectentity/project3):** comming soon...
-
 ## 🌟 Contribute
 
 We welcome contributions from everyone! Whether you're a seasoned professional or just starting, there's a place for you in our community.
