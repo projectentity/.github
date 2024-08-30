@@ -1,5 +1,4 @@
-![OSINT-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bd76b6d2-10ed-45af-8201-0b25f968743e)
-
+<img src="https://github.com/user-attachments/assets/bd76b6d2-10ed-45af-8201-0b25f968743e" alt="Project E GIF" width="900" height="auto" />
 
 <h1 align="center">Welcome to Project E</h1>
 
