@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://64.media.tumblr.com/07097c51c37622f017a79714c6fa8a54/tumblr_o7jv4nj13S1tago7oo9_1280.png" alt="Project E Logo">
-</p>
+![OSINT-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bd76b6d2-10ed-45af-8201-0b25f968743e)
+
 
 <h1 align="center">Welcome to Project E</h1>
 
